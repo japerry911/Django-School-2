@@ -1,3 +1,4 @@
 - django - framework for building web apps with Python
 - `django-admin startproject <project-name> <destination>`
+- view - request handler
 - 
